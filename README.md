@@ -5,7 +5,7 @@
 - люблю осваивать новые фреймворки <br>
 
 ### Мой стек:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,nodejs,react,vue,ts,git, &theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,nodejs,react,vue,ts,git&theme=light)](https://skills.thijs.gg)
 
 |      |                  |
 |-----:|-----------------|
