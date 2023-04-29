@@ -10,26 +10,26 @@
 |  Icon |    Name        |
 |-----:|-----------------|
 | 👋 |      Html         |
-| 👋 |      Css          |
-| 👋 |      Sass          |
-| 👋 |      JavaScript           |
-| 👋 |      jQuery          |
-| 👋 |      React.js        |
-| 👋 |      Redux    |
-| 👋 |      Vue.js         |
-| 👋 |      Vuex          |
-| 👋 |      TypeScript           |
-| 👋 |      Jest          |
-| 👋 |      WebSocket        |
-| 👋 |      Webpack    |
-| 👋 |      October CMS           |
-| 👋 |      Laravel          |
-| 👋 |      ModX        |
+| 👋 |      CSS          |
+| 👋 |      Sass         |
+| 👋 |      JavaScript   |
+| 👋 |      jQuery       |
+| 👋 |      React.js     |
+| 👋 |      Redux        |
+| 👋 |      Vue.js       |
+| 👋 |      Vuex         |
+| 👋 |      TypeScript   |
+| 👋 |      Jest         |
+| 👋 |      WebSocket    |
+| 👋 |      Webpack      |
+| 👋 |      October CMS  |
+| 👋 |      Laravel      |
+| 👋 |      ModX         |
 | 👋 |      Wordpress    |
 | 👋 |      Git          |
-| 👋 |      Node.js        |
-| 👋 |      Figma    |
-| 👋 |      Adobe XD    |
+| 👋 |      Node.js      |
+| 👋 |      Figma        |
+| 👋 |      Adobe XD     |
 
 
 ### Portfolio
