@@ -1,11 +1,5 @@
 ### Привет, меня зовут Павел! 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 Стремлюсь к работе с настоящим боевыми проектами
 Хочу работать с опытнами коллегами 
 Люблю осваивать новые фреймворки
