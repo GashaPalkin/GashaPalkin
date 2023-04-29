@@ -5,6 +5,12 @@
 - люблю осваивать новые фреймворки <br>
 
 ### Мой стек:
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
 
 
 |  Icon |    Name        |
