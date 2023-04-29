@@ -9,7 +9,7 @@
 |  Icon |    Name        |
 |-----:|-----------------|
 | 👋 |      Html         |
-| 👋 |      CSS          z
+| 👋 |      CSS          |
 | 👋 |      Sass         |
 | 👋 |      JavaScript   |
 | 👋 |      jQuery       |
