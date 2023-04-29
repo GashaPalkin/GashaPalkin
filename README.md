@@ -4,13 +4,9 @@
 - хочу работать с опытнами коллегами <br>
 - люблю осваивать новые фреймворки <br>
 
-### Мой стек:
+### 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
+<summary>Мой стек:</summary>
 
 
 |  Icon |    Name        |
@@ -36,6 +32,10 @@ YOUR TABLE
 | 👋 |      Node.js      |
 | 👋 |      Figma        |
 | 👋 |      Adobe XD     |
+
+
+</details>
+
 
 
 ### Portfolio
