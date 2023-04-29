@@ -11,10 +11,25 @@
 |-----:|-----------------|
 | 👋 |      Html         |
 | 👋 |      Css          |
-| 👋 |      JS           |
-| 👋 |      VUE          |
-| 👋 |      React        |
+| 👋 |      Sass          |
+| 👋 |      JavaScript           |
+| 👋 |      jQuery          |
+| 👋 |      React.js        |
+| 👋 |      Redux    |
+| 👋 |      Vue.js         |
+| 👋 |      Vuex          |
+| 👋 |      TypeScript           |
+| 👋 |      Jest          |
+| 👋 |      WebSocket        |
+| 👋 |      Webpack    |
+| 👋 |      October CMS           |
+| 👋 |      Laravel          |
+| 👋 |      ModX        |
 | 👋 |      Wordpress    |
+| 👋 |      Git          |
+| 👋 |      Node.js        |
+| 👋 |      Figma    |
+| 👋 |      Adobe XD    |
 
 
 ### Portfolio
