@@ -42,12 +42,12 @@ https://gashapalkin.github.io/react-burger
 
 Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 
-# Project Real estate agency website
+# Project Real estate agency website Vue.js
 [Link](http://estate.airtac.su/)
 
 Description: HTML, CSS, JS, Vue js, Vuex, API, Webpack, October CMS, Laravel
 
-# Project Real estate agency website
+# Project Real estate agency website React.js
 [Link](http://estate-react.airtac.su/)
 
 Description: HTML, CSS, JS, React js, Redux, API, Webpack, October CMS, Laravel
