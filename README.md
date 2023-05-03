@@ -5,9 +5,9 @@
 - люблю осваивать новые фреймворки <br>
 
 |      |                  |
-|-----:|-----------------|
-| :---: Email     |      pavelgalkin.mgn@gmail.com |
-| :---: WhatsApp  |      +7 922 326 13 32          |
+|:---|-----------------|
+| Email     |      pavelgalkin.mgn@gmail.com |
+| WhatsApp  |      +7 922 326 13 32          |
 
 
 
