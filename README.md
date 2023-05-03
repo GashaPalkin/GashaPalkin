@@ -3,17 +3,14 @@
 - стремлюсь к работе с настоящим боевыми проектами <br>
 - хочу работать с опытнами коллегами <br>
 - люблю осваивать новые фреймворки <br>
--- контакты:
 
 |      |                  |
 |-----:|-----------------|
-| email |      pavelgalkin.mgn@gmail.com         |
-| tel/WhatsApp |      +7 922 326 13 3          |
+| email        |      pavelgalkin.mgn@gmail.com |
+| tel/WhatsApp |      +7 922 326 13 32          |
 
 
-- - email: pavelgalkin.mgn@gmail.com
-- - tel/WhatsApp: +7 922 326 13 32
-- 
+
 ### Мой стек:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,nodejs,react,vue,ts,git&theme=light)](https://skills.thijs.gg)
 
