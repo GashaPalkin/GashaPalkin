@@ -21,7 +21,6 @@
 | 👋 |      SCSS         |
 | 👋 |      JavaScript   |
 | 👋 |      Node.js      |
-| 👋 |      Express      |
 | 👋 |      React.js     |
 | 👋 |      Redux        |
 | 👋 |      Vue.js       |
@@ -30,12 +29,13 @@
 | 👋 |      Nuxt         |
 | 👋 |      TypeScript   |
 | 👋 |      Jest         |
+| 👋 |      Cypress      |
 | 👋 |      WebSocket    |
 | 👋 |      Webpack      |
 | 👋 |      Gulp         |
 | 👋 |      Vite         |
-| 👋 |      October CMS  |
 | 👋 |      Laravel      |
+| 👋 |      October CMS  |
 | 👋 |      Wordpress    |
 | 👋 |      Git          |
 | 👋 |      Figma        |
@@ -47,13 +47,14 @@ https://gashapalkin.github.io/react-burger
 
 Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 
-# Project Burgers
-https://gashapalkin.github.io/react-burger
+# Project laravel-vue-auth
+https://github.com/GashaPalkin/laravel-vue-auth
 
-Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
+Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite, GIT
 
-# Project Burgers
-https://gashapalkin.github.io/react-burger
 
-Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
+# Project nuxt-nodejs-sqlite
+https://github.com/GashaPalkin/nuxt-nodejs-sqlite
+
+Description: HTML, CSS, JS, Node.js for API, JWT authentication, Vue3, Nuxt, Pinia, Vite, GIT 
 
