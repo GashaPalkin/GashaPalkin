@@ -49,7 +49,7 @@ Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 
 
 # Project laravel-vue-auth
-![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/public/uploads/1696947399_2becb9a53eabd54524800ec7e69ac3d1.jpg)
+![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/public/uploads/1696947399_2becb9a53eabd54524800ec7e69ac3d1.jpg) <br>
 https://github.com/GashaPalkin/laravel-vue-auth
 
 Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite, GIT
