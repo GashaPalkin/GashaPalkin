@@ -14,8 +14,12 @@
 ### Мой стек:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,nodejs,react,vue,ts,git&theme=light)](https://skills.thijs.gg) <br>
 
+---
+
 Html | CSS | SCSS | JavaScript | TypeScript | Node.js | React.js | Redux |  Vue.js | Vuex | Pinia | Nuxt
 Jest | Cypress | WebSocket | Webpack | Gulp | Vite | Laravel | October CMS Wordpress | Git | Figma
+
+---
 
 
 
