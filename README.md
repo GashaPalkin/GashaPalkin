@@ -18,8 +18,8 @@
 
 ---
 
-HTML | CSS | SCSS | JavaScript | TypeScript<br>
-Node.js | Express | React.js | Redux |  Vue.js | Vuex | Pinia | Nuxt
+HTML | CSS | SCSS | JavaScript | TypeScript <br>
+Node.js | Express | React.js | Redux |  Vue.js | Vuex | Pinia | Nuxt <br>
 Jest | Cypress | WebSocket | Webpack | Gulp | Vite | Git | Figma <br> 
 Laravel | October CMS | Wordpress
 
