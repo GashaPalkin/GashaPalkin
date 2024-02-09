@@ -44,7 +44,7 @@
 
 # Project Burgers
 https://gashapalkin.github.io/react-burger <br>
-Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
+Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Cypress, Figma
 
 ---
 ![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/ScreenshotBurger1.png) <br>
