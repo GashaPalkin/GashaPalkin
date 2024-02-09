@@ -6,6 +6,7 @@
   
 
 |      |                  |
+|:---|-----------------|
 | Email     |      pavelgalkin.mgn@gmail.com |
 | WhatsApp  |      +7 919 326 13 32          |
 
