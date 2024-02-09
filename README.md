@@ -43,21 +43,32 @@
 
 
 # Project Burgers
+---
+![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/ScreenshotBurger1.png) <br>
+![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/ScreenshotBurger2.png) <br>
+
+---
 https://gashapalkin.github.io/react-burger
 
 Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 
 
 # Project laravel-vue-auth
+---
 ![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/Screenshot1.png) <br>
 ![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/Screenshot2.png) <br>
+
+---
 https://github.com/GashaPalkin/laravel-vue-auth
 
 Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite, GIT
 
 
 # Project nuxt-nodejs-sqlite
+---
 ![Screenshot](https://github.com/GashaPalkin/nuxt-nodejs-sqlite/raw/master/Screenshot.png) <br>
+
+---
 https://github.com/GashaPalkin/nuxt-nodejs-sqlite
 
 Description: HTML, CSS, JS, Node.js for API, JWT authentication, Vue3, Nuxt, Pinia, Vite, GIT 
