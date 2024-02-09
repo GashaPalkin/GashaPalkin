@@ -43,7 +43,7 @@
 
 
 # Project Burgers
-https://gashapalkin.github.io/react-burger
+https://gashapalkin.github.io/react-burger <br>
 Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 
 ---
@@ -53,7 +53,7 @@ Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
 ---
 
 # Project laravel-vue-auth
-https://github.com/GashaPalkin/laravel-vue-auth
+https://github.com/GashaPalkin/laravel-vue-auth <br>
 Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite, GIT
 
 ---
@@ -63,7 +63,7 @@ Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite,
 ---
 
 # Project nuxt-nodejs-sqlite
-https://github.com/GashaPalkin/nuxt-nodejs-sqlite
+https://github.com/GashaPalkin/nuxt-nodejs-sqlite <br>
 Description: HTML, CSS, JS, Node.js for API, JWT authentication, Vue3, Nuxt, Pinia, Vite, GIT 
 
 ---
