@@ -64,7 +64,7 @@ Description: HTML, CSS, JS, Laravel for API, Sanctum authentication, Vue3, Vite,
 
 # Project nuxt-nodejs-sqlite
 https://github.com/GashaPalkin/nuxt-nodejs-sqlite <br>
-Description: HTML, CSS, JS, Node.js for API, JWT authentication, Vue3, Nuxt, Pinia, Vite, GIT 
+Description: HTML, CSS, JS, Node.js for API, JWT authentication, Sqlite, Vue3, Nuxt, Pinia, Vite, GIT 
 
 ---
 ![Screenshot](https://github.com/GashaPalkin/nuxt-nodejs-sqlite/raw/master/Screenshot.png) <br>
