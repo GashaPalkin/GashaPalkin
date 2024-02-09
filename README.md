@@ -7,7 +7,7 @@
 |      |                  |
 |:---|-----------------|
 | Email     |      pavelgalkin.mgn@gmail.com |
-| WhatsApp  |      +7 922 326 13 32          |
+| WhatsApp  |      +7 919 326 13 32          |
 
 
 
@@ -46,6 +46,7 @@
 https://gashapalkin.github.io/react-burger
 
 Description: HTML, CSS, JS, React, Redux, API, Webpack, GIT, Jest, Figma
+![Screenshot](https://github.com/GashaPalkin/laravel-vue-auth/raw/master/public/uploads/1696947399_2becb9a53eabd54524800ec7e69ac3d1.jpg)
 
 # Project laravel-vue-auth
 https://github.com/GashaPalkin/laravel-vue-auth
