@@ -53,6 +53,7 @@ Description: HTML, CSS, JS, Node.js for API, JWT authentication, Sqlite, Vue3, N
 
 ---
 ![Screenshot](https://github.com/GashaPalkin/nuxt-nodejs-sqlite/raw/master/Screenshot.png) <br>
+![Screenshot](https://github.com/GashaPalkin/nuxt-nodejs-sqlite/raw/master/Screenshot2.png) <br>
 
 ---
 
